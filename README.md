@@ -2,7 +2,7 @@
 
 
 
-to run project run 
+to build project run 
 
 
 
