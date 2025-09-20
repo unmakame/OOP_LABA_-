@@ -5,10 +5,14 @@ set(CMAKE_CXX_STANDARD 11)
 
 find_package(GTest REQUIRED)
 
+include_directories(include)
+
 add_executable(oop_laba_1
     src/main.cpp
     src/change_letter.cpp
 )
+
+add_library(change_letter STATIC src/change_letter.cpp)
 
 add_executable(test_change_letter
     test/test_main.cpp
@@ -16,6 +20,7 @@ add_executable(test_change_letter
     src/change_letter.cpp
 )
 
-target_link_libraries(test_change_letter GTest::GTest GTest::Main)
-target_include_directories(oop_laba_1 PRIVATE include)
+target_link_libraries(test_change_letter GTest::GTest GTest::Main change_letter)
+target_include_directories(change_letter PRIVATE include)
 target_include_directories(test_change_letter PRIVATE include)
+target_include_directories(oop_laba_1 PRIVATE include)

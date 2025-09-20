@@ -1,6 +1,5 @@
-#include "/Users/vladislavbaanov/Desktop/OOP_LAba_1/include/change_letter.h"
+#include "change_letter.h"
 #include <string>
-#include <iostream>
 
 
 std::string changeLetter(std::string str_input){

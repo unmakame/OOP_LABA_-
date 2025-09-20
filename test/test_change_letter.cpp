@@ -1,8 +1,8 @@
-#include "/Users/vladislavbaanov/Desktop/OOP_LAba_1/include/change_letter.h"
-#include "/opt/homebrew/include/gtest/gtest.h"
+#include "change_letter.h"
+#include <gtest/gtest.h>
 #include <string>
 
-TEST(ChangeLetterTest, ReplacesAWithB) {
+TEST(changeLetter, ReplacesAWithB){
     std::string input = "abc";
     std::string result = changeLetter(input);
     EXPECT_EQ(result, "bac");
