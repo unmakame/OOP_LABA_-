@@ -127,6 +127,7 @@ test_change_letter: CMakeFiles/test_change_letter.dir/test/test_main.cpp.o
 test_change_letter: CMakeFiles/test_change_letter.dir/test/test_change_letter.cpp.o
 test_change_letter: CMakeFiles/test_change_letter.dir/src/change_letter.cpp.o
 test_change_letter: CMakeFiles/test_change_letter.dir/build.make
+test_change_letter: libchange_letter.a
 test_change_letter: /opt/homebrew/lib/libgtest_main.a
 test_change_letter: /opt/homebrew/lib/libgtest.a
 test_change_letter: CMakeFiles/test_change_letter.dir/link.txt

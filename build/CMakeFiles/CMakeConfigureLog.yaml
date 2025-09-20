@@ -36,6 +36,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -68,6 +69,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -117,6 +119,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -137,6 +140,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/gmake"
       - "/usr/local/share/dotnet/gmake"
       - "/Users/vladislavbaanov/.dotnet/tools/gmake"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/gmake"
       - "/Users/vladislavbaanov/.local/bin/gmake"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/gmake"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/gmake"
@@ -168,6 +172,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -215,6 +220,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -247,6 +253,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -297,6 +304,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -391,6 +399,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -415,6 +424,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -456,6 +466,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -480,6 +491,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -521,6 +533,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -545,6 +558,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -586,6 +600,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -610,6 +625,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -651,6 +667,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -675,6 +692,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -716,6 +734,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -740,6 +759,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -781,6 +801,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -801,6 +822,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/objcopy"
       - "/usr/local/share/dotnet/objcopy"
       - "/Users/vladislavbaanov/.dotnet/tools/objcopy"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/objcopy"
       - "/Users/vladislavbaanov/.local/bin/objcopy"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/objcopy"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/objcopy"
@@ -825,6 +847,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -866,6 +889,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -886,6 +910,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/readelf"
       - "/usr/local/share/dotnet/readelf"
       - "/Users/vladislavbaanov/.dotnet/tools/readelf"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/readelf"
       - "/Users/vladislavbaanov/.local/bin/readelf"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/readelf"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/readelf"
@@ -910,6 +935,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -951,6 +977,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -971,6 +998,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/dlltool"
       - "/usr/local/share/dotnet/dlltool"
       - "/Users/vladislavbaanov/.dotnet/tools/dlltool"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/dlltool"
       - "/Users/vladislavbaanov/.local/bin/dlltool"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/dlltool"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
@@ -995,6 +1023,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -1036,6 +1065,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -1056,6 +1086,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/addr2line"
       - "/usr/local/share/dotnet/addr2line"
       - "/Users/vladislavbaanov/.dotnet/tools/addr2line"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/addr2line"
       - "/Users/vladislavbaanov/.local/bin/addr2line"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/addr2line"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/addr2line"
@@ -1080,6 +1111,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -1121,6 +1153,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -1141,6 +1174,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/tapi"
       - "/usr/local/share/dotnet/tapi"
       - "/Users/vladislavbaanov/.dotnet/tools/tapi"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/tapi"
       - "/Users/vladislavbaanov/.local/bin/tapi"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/tapi"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
@@ -1165,6 +1199,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -1218,6 +1253,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -1268,6 +1304,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -1362,6 +1399,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
       - "/usr/local/share/dotnet/"
       - "/Users/vladislavbaanov/.dotnet/tools/"
+      - "/Applications/iTerm.app/Contents/Resources/utilities/"
       - "/Users/vladislavbaanov/.local/bin/"
       - "/Users/vladislavbaanov/Library/Python/3.9/bin/"
       - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
@@ -1394,6 +1432,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
@@ -1409,8 +1448,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3"
-      binary: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3"
+      source: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ"
+      binary: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1422,18 +1461,18 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3'
+        Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a5116/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a5116.dir/build.make CMakeFiles/cmTC_a5116.dir/build
-        Building C object CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_06489/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_06489.dir/build.make CMakeFiles/cmTC_06489.dir/build
+        Building C object CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
         Apple clang version 16.0.0 (clang-1600.0.26.3)
         Target: arm64-apple-darwin24.0.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3 -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3 -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
         clang -cc1 version 16.0.0 (clang-1600.0.26.3) default target arm64-apple-darwin24.0.0
         ignoring nonexistent directory "/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
@@ -1445,13 +1484,13 @@ events:
          /Library/Developer/CommandLineTools/usr/include
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
         End of search list.
-        Linking C executable cmTC_a5116
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5116.dir/link.txt --verbose=1
+        Linking C executable cmTC_06489
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06489.dir/link.txt --verbose=1
         Apple clang version 16.0.0 (clang-1600.0.26.3)
         Target: arm64-apple-darwin24.0.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_a5116 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_06489 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1115.7.3
         BUILD 13:29:00 Aug  9 2024
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -1463,7 +1502,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -o cmTC_a5116
+        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -o cmTC_06489
         
       exitCode: 0
   -
@@ -1505,18 +1544,18 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3']
+        ignore line: [Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a5116/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a5116.dir/build.make CMakeFiles/cmTC_a5116.dir/build]
-        ignore line: [Building C object CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_06489/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_06489.dir/build.make CMakeFiles/cmTC_06489.dir/build]
+        ignore line: [Building C object CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.3)]
         ignore line: [Target: arm64-apple-darwin24.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3 -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-jBRtw3 -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-pu0VQJ -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [clang -cc1 version 16.0.0 (clang-1600.0.26.3) default target arm64-apple-darwin24.0.0]
         ignore line: [ignoring nonexistent directory "/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
@@ -1528,13 +1567,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/usr/include]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking C executable cmTC_a5116]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5116.dir/link.txt --verbose=1]
+        ignore line: [Linking C executable cmTC_06489]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06489.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.3)]
         ignore line: [Target: arm64-apple-darwin24.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_a5116 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_06489 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -1551,12 +1590,12 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_a5116] ==> ignore
+          arg [cmTC_06489] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_a5116.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_06489.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lSystem] ==> lib [System]
           arg [/Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
         linker tool for 'C': /Library/Developer/CommandLineTools/usr/bin/ld
@@ -1598,8 +1637,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j"
-      binary: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j"
+      source: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3"
+      binary: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1612,19 +1651,19 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j'
+        Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_99abc/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_99abc.dir/build.make CMakeFiles/cmTC_99abc.dir/build
-        Building CXX object CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_f8b88/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f8b88.dir/build.make CMakeFiles/cmTC_f8b88.dir/build
+        Building CXX object CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Apple clang version 16.0.0 (clang-1600.0.26.3)
         Target: arm64-apple-darwin24.0.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang++: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3 -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3 -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         clang -cc1 version 16.0.0 (clang-1600.0.26.3) default target arm64-apple-darwin24.0.0
         ignoring nonexistent directory "/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
@@ -1637,13 +1676,13 @@ events:
          /Library/Developer/CommandLineTools/usr/include
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
         End of search list.
-        Linking CXX executable cmTC_99abc
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99abc.dir/link.txt --verbose=1
+        Linking CXX executable cmTC_f8b88
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f8b88.dir/link.txt --verbose=1
         Apple clang version 16.0.0 (clang-1600.0.26.3)
         Target: arm64-apple-darwin24.0.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_99abc -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_f8b88 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1115.7.3
         BUILD 13:29:00 Aug  9 2024
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -1655,7 +1694,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_99abc
+        /usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_f8b88
         
       exitCode: 0
   -
@@ -1699,19 +1738,19 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j']
+        ignore line: [Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_99abc/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_99abc.dir/build.make CMakeFiles/cmTC_99abc.dir/build]
-        ignore line: [Building CXX object CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_f8b88/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f8b88.dir/build.make CMakeFiles/cmTC_f8b88.dir/build]
+        ignore line: [Building CXX object CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.3)]
         ignore line: [Target: arm64-apple-darwin24.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang++: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-sf0V8j -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx15.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.0 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3 -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/16/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -fdebug-compilation-dir=/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-5vnhz3 -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [clang -cc1 version 16.0.0 (clang-1600.0.26.3) default target arm64-apple-darwin24.0.0]
         ignore line: [ignoring nonexistent directory "/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
@@ -1724,13 +1763,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/usr/include]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_99abc]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99abc.dir/link.txt --verbose=1]
+        ignore line: [Linking CXX executable cmTC_f8b88]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f8b88.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.3)]
         ignore line: [Target: arm64-apple-darwin24.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_99abc -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 15.0.0 15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_f8b88 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -1747,12 +1786,12 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_99abc] ==> ignore
+          arg [cmTC_f8b88] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_99abc.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_f8b88.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lc++] ==> lib [c++]
           arg [-lSystem] ==> lib [System]
           arg [/Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
@@ -1798,8 +1837,8 @@ events:
       - "/opt/homebrew/share/cmake/Modules/FindGTest.cmake:337 (find_package)"
       - "CMakeLists.txt:6 (find_package)"
     directories:
-      source: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-iF1j0S"
-      binary: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-iF1j0S"
+      source: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-YusAE0"
+      binary: "/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-YusAE0"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1811,15 +1850,15 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-iF1j0S'
+        Change Dir: '/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-YusAE0'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9249b/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9249b.dir/build.make CMakeFiles/cmTC_9249b.dir/build
-        Building C object CMakeFiles/cmTC_9249b.dir/src.c.o
-        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -arch arm64 -MD -MT CMakeFiles/cmTC_9249b.dir/src.c.o -MF CMakeFiles/cmTC_9249b.dir/src.c.o.d -o CMakeFiles/cmTC_9249b.dir/src.c.o -c /Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-iF1j0S/src.c
-        Linking C executable cmTC_9249b
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9249b.dir/link.txt --verbose=1
-        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_9249b.dir/src.c.o -o cmTC_9249b
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ac53c/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ac53c.dir/build.make CMakeFiles/cmTC_ac53c.dir/build
+        Building C object CMakeFiles/cmTC_ac53c.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -arch arm64 -MD -MT CMakeFiles/cmTC_ac53c.dir/src.c.o -MF CMakeFiles/cmTC_ac53c.dir/src.c.o.d -o CMakeFiles/cmTC_ac53c.dir/src.c.o -c /Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/CMakeScratch/TryCompile-YusAE0/src.c
+        Linking C executable cmTC_ac53c
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac53c.dir/link.txt --verbose=1
+        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_ac53c.dir/src.c.o -o cmTC_ac53c
         
       exitCode: 0
   -
@@ -1914,6 +1953,7 @@ events:
         - "~/.dotnet/tools"
         - "/opt/homebrew/opt/tcl-tk/bin"
         - "/Users/vladislavbaanov/.nvm/versions/node/v18.20.8/bin"
+        - "/Applications/iTerm.app/Contents/Resources/utilities"
         - "/Users/vladislavbaanov/.local/bin"
         - "/Users/vladislavbaanov/Library/Python/3.9/bin"
         - "/Users/vladislavbaanov/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"

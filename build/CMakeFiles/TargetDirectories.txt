@@ -1,4 +1,5 @@
 /Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/oop_laba_1.dir
+/Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/change_letter.dir
 /Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/test_change_letter.dir
 /Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/edit_cache.dir
 /Users/vladislavbaanov/Desktop/OOP_LAba_1/build/CMakeFiles/rebuild_cache.dir

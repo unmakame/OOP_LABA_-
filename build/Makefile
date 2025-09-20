@@ -130,6 +130,19 @@ oop_laba_1/fast:
 .PHONY : oop_laba_1/fast
 
 #=============================================================================
+# Target rules for targets named change_letter
+
+# Build rule for target.
+change_letter: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 change_letter
+.PHONY : change_letter
+
+# fast build rule for target.
+change_letter/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/change_letter.dir/build.make CMakeFiles/change_letter.dir/build
+.PHONY : change_letter/fast
+
+#=============================================================================
 # Target rules for targets named test_change_letter
 
 # Build rule for target.
@@ -148,6 +161,7 @@ src/change_letter.o: src/change_letter.cpp.o
 # target to build an object file
 src/change_letter.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_laba_1.dir/build.make CMakeFiles/oop_laba_1.dir/src/change_letter.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/change_letter.dir/build.make CMakeFiles/change_letter.dir/src/change_letter.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_change_letter.dir/build.make CMakeFiles/test_change_letter.dir/src/change_letter.cpp.o
 .PHONY : src/change_letter.cpp.o
 
@@ -157,6 +171,7 @@ src/change_letter.i: src/change_letter.cpp.i
 # target to preprocess a source file
 src/change_letter.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_laba_1.dir/build.make CMakeFiles/oop_laba_1.dir/src/change_letter.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/change_letter.dir/build.make CMakeFiles/change_letter.dir/src/change_letter.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_change_letter.dir/build.make CMakeFiles/test_change_letter.dir/src/change_letter.cpp.i
 .PHONY : src/change_letter.cpp.i
 
@@ -166,6 +181,7 @@ src/change_letter.s: src/change_letter.cpp.s
 # target to generate assembly for a file
 src/change_letter.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/oop_laba_1.dir/build.make CMakeFiles/oop_laba_1.dir/src/change_letter.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/change_letter.dir/build.make CMakeFiles/change_letter.dir/src/change_letter.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_change_letter.dir/build.make CMakeFiles/test_change_letter.dir/src/change_letter.cpp.s
 .PHONY : src/change_letter.cpp.s
 
@@ -249,6 +265,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... change_letter"
 	@echo "... oop_laba_1"
 	@echo "... test_change_letter"
 	@echo "... src/change_letter.o"

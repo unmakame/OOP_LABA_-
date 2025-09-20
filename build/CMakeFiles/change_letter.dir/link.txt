@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchange_letter.a CMakeFiles/change_letter.dir/src/change_letter.cpp.o
+/usr/bin/ranlib libchange_letter.a
